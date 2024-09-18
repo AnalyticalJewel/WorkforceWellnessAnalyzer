@@ -25,4 +25,21 @@ Increased job insecurity, leading to stress and absenteeism.
 
 # Results:
 
-1. 
+**1. Age Vs Probability:**
+   ![Age vs probability](https://github.com/user-attachments/assets/c3dc5f36-03fb-4b51-977d-3d03f8d51964)
+This visual represents the probability of absenteeism vs age of individual , each dot represents an individual
+
+
+**2.  4 Reasons vs Probability**
+![4 reasons vs probability](https://github.com/user-attachments/assets/76612965-2d9c-4900-b5c0-2d5edaef6ab4)
+This visual represents the reason behind the absenteeism of a person  more than 3 hours at a workplace
+
+
+**3. Transport Expense + Children vs Probability
+![Transportation expense+children vs probability](https://github.com/user-attachments/assets/36fa968f-07b8-4fd8-97ae-673a7b567128)
+This visual represents the two factors: Transportation expense and the  number of childrens  responsible for the absenteeism . 
+The probability is the probability of absenteeism at workplace more than 3 hours 
+
+
+
+
